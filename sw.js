@@ -1,5 +1,5 @@
 // Fresh Keep: funciona offline. Ao atualizar o app, muda o número V (e em version.json e index.html).
-const V = "2.7.0", SHELL = "fk-shell-" + V, RUN = "fk-run";
+const V = "2.8.0", SHELL = "fk-shell-" + V, RUN = "fk-run";
 const FILES = ["./", "index.html", "manifest.json", "icon-192.png", "icon-512.png"];
 const LIBS = [
   "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js",
